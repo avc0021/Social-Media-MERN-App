@@ -40,5 +40,3 @@ Adam Castro
 Github: https://github.com/avc0021</br>
 Email: avc0021@gmail.com
 
-
-Deployed Link : https://powerful-brook-32188.herokuapp.com/
