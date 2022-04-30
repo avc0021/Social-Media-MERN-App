@@ -33,6 +33,10 @@ Users will be able to sign up and create an account, post their thoughts, and in
 # Usage
 See deployed link below:
 
+![DeepThoughts1](https://user-images.githubusercontent.com/91796423/166087899-615d36f6-397b-4f65-bdbb-0c41ee2743dc.png)
+
+![DeepThoughts2](https://user-images.githubusercontent.com/91796423/166087904-3fb3d919-c72c-455b-9fbe-07f0d0373c4a.png)
+
 Deployed Link : https://powerful-brook-32188.herokuapp.com/
 
 # Contributing
